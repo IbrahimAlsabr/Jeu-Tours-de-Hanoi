@@ -94,7 +94,7 @@ Cela va exécuter la méthode main contenue dans le script `main.py`.
 
 ## Mon Travail
 
-### Autour Fichiers <b></b>
+### Autour Fichiers
 
 <b>Partie A :</b> <b style="color: #15adc0">Plateau de jeu et listes</b>
 Dans cette partie, on a commencé par la fonction <b> init(n)</b> qui permet de renvoyer la configuration initiale de plateau. A partir de nombre de disques reçu en paramètre, cette fonction crée une liste des entiers classés par ordre décroissant pour la tour de gauche (indice 0 de la liste plateau).
